@@ -1,2 +1,4 @@
 # bmw-m5-cs
 BMW M5 CS — Editorial Landing Page: Designed and developed a responsive RTL showcase featuring warm editorial aesthetics, scroll-reveal choreography, parallax layers, animated performance counters, and a full vehicle specification layout.
+Layout & RTL Support: Built a full right-to-left (RTL) landing page structured around 6 sections (Hero, Philosophy, Performance, Design, Specs, Contact) with a collapsible mobile navigation menu.   Visual & Typographic Identity: Styled with a warm paper-and-bronze palette paired with Tajawal, Cormorant Garamond, and Jost typography plus subtle film-grain texture.   Interactive Motion: Implemented scroll-triggered reveals via IntersectionObserver, scroll parallax on hero and performance backgrounds, and eased numeric counters for horsepower, torque, 0–100 km/h time, and top speed.   
+
